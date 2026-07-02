@@ -29,10 +29,4 @@ pip install flask
 ## Resultados 
 ![Matriz de confusão](https://github.com/Isadoura/TB-x-rAI-Apoio-ao-diagn-stico-de-Tuberculose-atrav-s-de-Rede-Neural-Convolucional-e-aplica-o-web-/blob/main/matriz%20de%20confus%C3%A3o%20modelo%20com%20CLAHE%20treinamento%202.png)
 
-![Grad-CAM]()
-
-
-
-
-
-
+![Curva ROC](https://github.com/Isadoura/TB-x-rAI-Apoio-ao-diagn-stico-de-Tuberculose-atrav-s-de-Rede-Neural-Convolucional-e-aplica-o-web-/blob/main/curva%20ROC%20modelo%20com%20CLAHE%20treinamento%202.png)
