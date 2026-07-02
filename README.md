@@ -16,4 +16,13 @@ O site foi construído com objetivo de facilitar a predição de imagens radiogr
 
 Link para o site: 
 
+Ademais, para a integração com a CNN foi utilizado o Flask.
+
+###Módulos necessários:
+
+´´´
+pip install flask
+´´´
+
+
 
