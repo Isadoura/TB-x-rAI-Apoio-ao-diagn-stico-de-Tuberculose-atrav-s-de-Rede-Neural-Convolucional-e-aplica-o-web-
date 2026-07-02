@@ -24,6 +24,12 @@ Ademais, para a integração com a CNN foi utilizado o Flask.
 pip install flask
 ```
 
+## Base de dados
+
+## Resultados 
+
+
+
 
 
 
