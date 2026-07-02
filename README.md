@@ -1,1 +1,2 @@
-# TB-x-rAI-Apoio-ao-diagn-stico-de-Tuberculose-atrav-s-de-Rede-Neural-Convolucional-e-aplica-o-web-
+# TB x-rAI: Rede Neural Convolucional e aplicação web para apoio ao auxílio do diagnóstico de Tuberculose
+
