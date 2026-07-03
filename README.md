@@ -25,6 +25,7 @@ pip install flask
 ```
 
 ## Base de dados
+Para o treinamento da rede neural foram utilizados os datasets públicos de imagens radiográficas de Montgomery, Shenzhen e Belarus. Para baixar o de Montgomery County pode-se acessar esse link: ![Montgomery](https://openi.nlm.nih.gov/imgs/collections/NLM-MontgomeryCXRSet.zip), Shenzhen em ![Shenzhen](https://openi.nlm.nih.gov/imgs/collections/ChinaSet_AllFiles.zip).
 
 ## Resultados 
 ![Matriz de confusão](https://github.com/Isadoura/TB-x-rAI-Apoio-ao-diagn-stico-de-Tuberculose-atrav-s-de-Rede-Neural-Convolucional-e-aplica-o-web-/blob/main/matriz%20de%20confus%C3%A3o%20modelo%20com%20CLAHE%20treinamento%202.png)
