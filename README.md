@@ -8,6 +8,12 @@ Este repositório apresenta uma **arquitetura de Rede Neural Convolucional e um 
 
 Figura 1: Arquitetura da Rede Neural Convolucional proposta.
 
+### Tratamento da base de dados
+Para o treinamento, validação e teste da rede neural foram utilizadas imagens dos datasets públicos de *Belarus*, *Montgomery Conty* e *Shenzhen*. Nesses, foi realizada uma padronização definindo uma dimensão de 256x256 *pixels*. Além disso, empregou-se técnicas de *data augmentation* como: rotações, deslocamentos verticais e horizontais de até 15⁰, variação no brilho, zoom de 20%, distorções geométricas de 10% e espelhamento horizontal.
+
+### Treinamento, validação e teste
+Aqui, foi definida a proporção treino (70%), validação (15%) e teste (15%). 
+
 ## Aplicação web TB x-rAI
 
 O site foi construído com objetivo de facilitar a predição de imagens radiográficas por profissionais da área da saúde através de uma interface intuitiva e amigável.
