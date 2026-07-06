@@ -8,8 +8,6 @@ Este repositório apresenta uma **arquitetura de Rede Neural Convolucional e um 
 
 Figura 1: Arquitetura da Rede Neural Convolucional proposta.
 
-O link do modelo de CNN está disponível em: ![Arquitetura CNN TB x-rAI]()
-
 ## Aplicação web TB x-rAI
 
 O site foi construído com objetivo de facilitar a predição de imagens radiográficas por profissionais da área da saúde através de uma interface intuitiva e amigável.
